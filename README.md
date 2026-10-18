@@ -1,2 +1,5 @@
 # bouncy-mario
 its a bouncy mario in pygame
+you need to do pip install pygame
+and put player.png in the same path as code.py
+idle is recomended
